@@ -38,7 +38,6 @@ A simple assumption-based cost model was created by product category to estimate
 Retail Superstore Dataset (Kaggle)
 
 ## Screenshots
-## Screenshots
 
 ![Dashboard](screenshots/dashboard.png)
 
