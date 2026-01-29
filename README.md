@@ -1,4 +1,4 @@
-# Financial Performance Dashboard (Excel)
+<img width="458" height="245" alt="Analysis Example" src="https://github.com/user-attachments/assets/db9e9f44-6f53-42f6-aa1f-0b5967075a1a" /># Financial Performance Dashboard (Excel)
 
 ## Overview
 This project is an end-to-end financial performance dashboard built in Microsoft Excel using a real retail sales dataset.
@@ -38,4 +38,6 @@ A simple assumption-based cost model was created by product category to estimate
 Retail Superstore Dataset (Kaggle)
 
 ## Screenshots
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
+![KPI analysis](screenshots/KPI analysis.png)
+![Analysis Example](screenshots/Analysis Example.png)
